@@ -130,7 +130,7 @@ class KBC
         {
             System.out.print("\nSorry, but this is the wrong answer");
             System.out.print("\n\nCorrect answer is B: Eight bits");
-            end();//calls the method end
+            end();
         }
         System.out.print("\n\nEnter any key to continue : ");
         s1=br.readLine();
